@@ -27,10 +27,11 @@ df= pd.read_csv("/content/SAMPLEIDS ().csv")
 df
 ```
 <img width="835" height="666" alt="Screenshot 2026-07-29 220839" src="https://github.com/user-attachments/assets/6b75a3db-c35b-40d4-8973-4e2ce61a2cd2" />
-```
-df.head(3)
 
 ```
+df.head(3)
+```
+
 <img width="827" height="141" alt="Screenshot 2026-07-29 221721" src="https://github.com/user-attachments/assets/493417b6-1f3e-402c-bc35-d8e0f52ed07d" />
 ```
 df.tail(5)
